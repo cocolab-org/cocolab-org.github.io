@@ -11,8 +11,7 @@ window.COCOLAB.home = {
     alt: " "
   },
   paragraphs: [
-    "The Computer Architecture and Co-Design (<strong>CoCo</strong>) research group is part of the Department of Computer Science and Engineering at UNIST in South Korea. We study computer architecture and hardware-software co-design from digital systems and computer architecture up through applications and algorithms. By co-optimizing across these layers, we aim to build high-performance computing platforms for future intelligent systems that are programmable, robust, reliable, secure, and energy-efficient.",
-    "This end-to-end perspective helps us turn device-level advances into real system impact and practical software."
+    "The Computer Architecture and Co-Design (CoCo) research group is part of the Department of Computer Science and Engineering at UNIST in South Korea. We study computer architecture and hardware–software co-design from digital systems and computer architecture up through applications and algorithms. By co-optimizing across these layers, we aim to build high-performance computing platforms for future intelligent systems that are programmable, robust, reliable, secure, and energy-efficient. This end-to-end perspective helps us turn device-level advances into real system impact and practical software."
   ],
   prospectiveHtml: "<strong>(Prospective Students &amp; Postdocs)</strong> If you are interested in an <b><u>undergraduate research internship</u></b>, <b><u>graduate studies</u></b>, or a <b><u>postdoc position</u></b>, please email your latest CV and transcripts."
 };
