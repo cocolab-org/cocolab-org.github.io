@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-label="Conference placeholder">
+  <rect width="960" height="640" fill="#eef9ff"/>
+  <rect x="110" y="75" width="740" height="390" rx="26" fill="#fff" stroke="#82CAFF" stroke-width="8"/>
+  <rect x="185" y="135" width="590" height="235" rx="14" fill="#fff8dc"/>
+  <path d="M235 320 360 230 470 290 620 170 725 250" fill="none" stroke="#7a4b2a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="250" cy="520" r="52" fill="#FFC000"/><path d="M250 570v70" stroke="#333" stroke-width="15"/>
+  <text x="520" y="535" font-family="Arial" font-size="50" font-weight="700" fill="#222">Conference</text>
+  <text x="520" y="580" font-family="Arial" font-size="23" fill="#555">Presentation and travel photos</text>
+</svg>
